@@ -9,7 +9,10 @@ Training a GPT model on WCAG success criteria. (Note: As of now, the training da
 ```OPENAI_KEY="<YOUR_SECRET_API_KEY>"```
 
 ### Prepare data
-```openai tools fine_tunes.prepare_data -f ./data/YOUR_FILE.jsonl```
+```openai tools fine_tunes.prepare_data -f ./data/YOUR_DATA_FILE.jsonl```
+
+### Update uploadFile.js
+```fs.createReadStream('./data/YOUR_PREPARED_DATA_FILE.jsonl'),```
 
 ### Upload the training data and generate file ID
 ```node uploadFile.js```
