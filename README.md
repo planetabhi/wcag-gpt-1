@@ -1,6 +1,8 @@
 # WCAG GPT 1
 Training a GPT model on WCAG success criteria. (Note: As of now, the training data used here is a workaround that was quickly generated using ChatGPT.)
 
+> For embedding vectors approach checkout [WCAG GPT 2](https://github.com/planetabhi/wcag-gpt-2).
+
 ### Install
 ```npm install``` <br>
 ```pip install --upgrade openai openai"[datalib]"```
@@ -28,4 +30,3 @@ Training a GPT model on WCAG success criteria. (Note: As of now, the training da
 
 ### Try your model
 ```node createCompletion.js```
-
