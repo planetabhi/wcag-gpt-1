@@ -1,0 +1,34 @@
+{"prompt":"All images must have alternative text descriptions. ->","completion":" positive"}
+{"prompt":"The website has complex tables that are difficult to navigate. ->","completion":" negative"}
+{"prompt":"The website has inaccessible PDF documents. ->","completion":" negative"}
+{"prompt":"The website must use semantic HTML markup to ensure proper structure. ->","completion":" positive"}
+{"prompt":"All user input errors must be clearly identified and described. ->","completion":" positive"}
+{"prompt":"The website must not have any elements that automatically refresh or redirect. ->","completion":" positive"}
+{"prompt":"The website must have a search function for easy navigation. ->","completion":" positive"}
+{"prompt":"All tables must have row and column headers for easy navigation and understanding. ->","completion":" positive"}
+{"prompt":"The website must have descriptive link text that accurately describes the destination. ->","completion":" positive"}
+{"prompt":"All form elements must have proper labels for easy identification. ->","completion":" positive"}
+{"prompt":"The website must not use images or videos that could be offensive or discriminatory. ->","completion":" positive"}
+{"prompt":"All form input fields must have proper validation for easy error correction. ->","completion":" positive"}
+{"prompt":"The website must have a clear and concise privacy policy. ->","completion":" positive"}
+{"prompt":"All forms must have clear and concise instructions for easy completion. ->","completion":" positive"}
+{"prompt":"All form input fields must have clear and concise help text. ->","completion":" positive"}
+{"prompt":"The website must have a clear and concise FAQ section. ->","completion":" positive"}
+{"prompt":"The website must have a clear and concise mission statement. ->","completion":" positive"}
+{"prompt":"The website must have clear and concise instructions for using any non-standard controls. ->","completion":" positive"}
+{"prompt":"All website content must be provided in a way that is easy to understand and navigate for non-native speakers. ->","completion":" positive"}
+{"prompt":"The website must have a clear and concise way to skip repetitive content, such as navigation menus. ->","completion":" positive"}
+{"prompt":"All website content must be presented in a way that is easy to understand and navigate for users with learning disabilities. ->","completion":" positive"}
+{"prompt":"The website must have a clear and concise way to adjust font sizes and styles. ->","completion":" positive"}
+{"prompt":"All website content must be provided in a way that is easy to understand and navigate for users with dyslexia. ->","completion":" positive"}
+{"prompt":"The website must have a clear and concise way to provide closed captions for videos for users with hearing impairments. ->","completion":" positive"}
+{"prompt":"The website must have a clear and concise way to provide audio descriptions for users with cognitive disabilities. ->","completion":" positive"}
+{"prompt":"All website content must be provided in a way that is easy to understand and navigate for users with age-related impairments. ->","completion":" positive"}
+{"prompt":"All website content must be presented in a way that is easy to understand and navigate for users with post-traumatic stress disorder (PTSD). ->","completion":" positive"}
+{"prompt":"The website must have clear and concise instructions for using any date pickers or calendars in form fields. ->","completion":" positive"}
+{"prompt":"The website must have clear and concise instructions for using any file upload functionality in form fields. ->","completion":" positive"}
+{"prompt":"All form fields must be presented in a way that is easy to understand and navigate for users with cognitive disabilities. ->","completion":" positive"}
+{"prompt":"The website must have clear and concise instructions for using any radio buttons or checkboxes in form fields. ->","completion":" positive"}
+{"prompt":"The website must have clear and concise instructions for using any toggle switches or input fields in form fields. ->","completion":" positive"}
+{"prompt":"All form fields must be presented in a way that is easy to understand and navigate for users with vertigo. ->","completion":" positive"}
+{"prompt":"All form fields must be presented in a way that is easy to understand and navigate for users with anxiety disorders. ->","completion":" positive"}

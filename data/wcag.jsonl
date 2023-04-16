@@ -1,0 +1,171 @@
+{"prompt": "<prompt text>", "completion": "<ideal generated text>"}
+{"prompt": "All images must have alternative text descriptions.", "completion": "positive"}
+{"prompt": "The font size must be at least 16px for optimal readability.", "completion": "positive"}
+{"prompt": "The website must provide captions or transcripts for all multimedia content.", "completion": "positive"}
+{"prompt": "All form elements must have associated labels.", "completion": "positive"}
+{"prompt": "The website must have a high contrast mode for users with low vision.", "completion": "positive"}
+{"prompt": "The website must not rely solely on color to convey information.", "completion": "positive"}
+{"prompt": "All audio and video content must have controls for playback and volume.", "completion": "positive"}
+{"prompt": "The website must be accessible via keyboard navigation.", "completion": "positive"}
+{"prompt": "The website must not use flashing or blinking elements that could trigger seizures.", "completion": "positive"}
+{"prompt": "All links must have descriptive text.", "completion": "positive"}
+{"prompt": "The website has insufficient color contrast between the text and the background.", "completion": "negative"}
+{"prompt": "The website has poor navigation structure, making it difficult to find content.", "completion": "negative"}
+{"prompt": "The website does not allow users to resize the text or zoom in.", "completion": "negative"}
+{"prompt": "The website has complex tables that are difficult to navigate.", "completion": "negative"}
+{"prompt": "The website has pop-ups that are not easily dismissed.", "completion": "negative"}
+{"prompt": "The website has videos without captions or transcripts.", "completion": "negative"}
+{"prompt": "The website has images without alternative text descriptions.", "completion": "negative"}
+{"prompt": "The website uses JavaScript that is not compatible with screen readers.", "completion": "negative"}
+{"prompt": "The website has forms without proper validation and error messages.", "completion": "negative"}
+{"prompt": "The website has inaccessible PDF documents.", "completion": "negative"}
+{"prompt": "The website must use semantic HTML markup to ensure proper structure.", "completion": "positive"}
+{"prompt": "All page titles must be descriptive and unique.", "completion": "positive"}
+{"prompt": "The website must have skip navigation links for easy access.", "completion": "positive"}
+{"prompt": "All headings must be properly nested and in the correct order.", "completion": "positive"}
+{"prompt": "The website must not use images of text, except in certain circumstances.", "completion": "positive"}
+{"prompt": "The website must have a consistent layout and navigation structure.", "completion": "positive"}
+{"prompt": "The website must not have any broken links or missing pages.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise language for easy understanding.", "completion": "positive"}
+{"prompt": "The website must have a logical reading order for screen reader users.", "completion": "positive"}
+{"prompt": "The website must have a consistent and predictable interface.", "completion": "positive"}
+{"prompt": "The website must not use auto-playing media that could be disruptive.", "completion": "positive"}
+{"prompt": "The website must have proper formatting for easy scanning and reading.", "completion": "positive"}
+{"prompt": "The website must not have any flashing or moving content that could be distracting.", "completion": "positive"}
+{"prompt": "The website must provide clear and concise instructions for all user actions.", "completion": "positive"}
+{"prompt": "The website must provide text descriptions for all graphs and charts.", "completion": "positive"}
+{"prompt": "The website must have a clear and visible focus indicator for keyboard users.", "completion": "positive"}
+{"prompt": "All user input errors must be clearly identified and described.", "completion": "positive"}
+{"prompt": "The website must have a consistent and intuitive navigation system.", "completion": "positive"}
+{"prompt": "All video content must have closed captions or subtitles.", "completion": "positive"}
+{"prompt": "The website must provide alternative content for all non-text content.", "completion": "positive"}
+{"prompt": "The website must provide a sitemap for easy navigation.", "completion": "positive"}
+{"prompt": "All links and buttons must be easily identifiable and distinguishable.", "completion": "positive"}
+{"prompt": "The website must not use frames, as they are not compatible with screen readers.", "completion": "positive"}
+{"prompt": "The website must have descriptive page titles for easy identification.", "completion": "positive"}
+{"prompt": "The website must have a visible skip to main content link.", "completion": "positive"}
+{"prompt": "All images must have alt text descriptions that are accurate and concise.", "completion": "positive"}
+{"prompt": "The website must not use images of text, except in certain circumstances.", "completion": "positive"}
+{"prompt": "All multimedia content must have a transcript available for users who are deaf or hard of hearing.", "completion": "positive"}
+{"prompt": "The website must not have any elements that automatically refresh or redirect.", "completion": "positive"}
+{"prompt": "The website must use clear and concise language for easy understanding.", "completion": "positive"}
+{"prompt": "The website must have a search function for easy navigation.", "completion": "positive"}
+{"prompt": "The website must have a consistent and easy-to-use form layout.", "completion": "positive"}
+{"prompt": "All tables must have row and column headers for easy navigation and understanding.", "completion": "positive"}
+{"prompt": "The website must use ARIA attributes to provide additional information for assistive technologies.", "completion": "positive"}
+{"prompt": "The website must have descriptive link text that accurately describes the destination.", "completion": "positive"}
+{"prompt": "The website must have a consistent and easy-to-use menu system.", "completion": "positive"}
+{"prompt": "All multimedia content must have a transcript available for users who are deaf or hard of hearing.", "completion": "positive"}
+{"prompt": "The website must not use blinking or flashing content that could cause seizures or migraines.", "completion": "positive"}
+{"prompt": "All form elements must have proper labels for easy identification.", "completion": "positive"}
+{"prompt": "The website must not use images or videos that could be offensive or discriminatory.", "completion": "positive"}
+{"prompt": "All multimedia content must have a pause button for easy control.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise site map for easy navigation.", "completion": "positive"}
+{"prompt": "The website must not use pop-ups or modal windows that cannot be easily closed.", "completion": "positive"}
+{"prompt": "The website must not use auto-play media that could be disruptive.", "completion": "positive"}
+{"prompt": "All form input fields must have proper validation for easy error correction.", "completion": "positive"}
+{"prompt": "The website must have a consistent and intuitive layout across all pages.", "completion": "positive"}
+{"prompt": "All forms must have clear and concise error messages for easy correction.", "completion": "positive"}
+{"prompt": "The website must not use color alone to convey information.", "completion": "positive"}
+{"prompt": "All website content must be easily navigable using a keyboard alone.", "completion": "positive"}
+{"prompt": "The website must have clear and consistent headings for easy navigation.", "completion": "positive"}
+{"prompt": "All form input fields must have clear and concise placeholder text.", "completion": "positive"}
+{"prompt": "The website must not use images that flicker more than 3 times per second.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise privacy policy.", "completion": "positive"}
+{"prompt": "All website content must have sufficient color contrast for easy reading.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise terms of use agreement.", "completion": "positive"}
+{"prompt": "All forms must have clear and concise instructions for easy completion.", "completion": "positive"}
+{"prompt": "The website must not use content that flashes more than three times per second.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise copyright notice.", "completion": "positive"}
+{"prompt": "All website content must have sufficient contrast between text and background.", "completion": "positive"}
+{"prompt": "The website must not use content that could cause seizures or migraines.", "completion": "positive"}
+{"prompt": "All form input fields must have a clear and concise purpose.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise about us section.", "completion": "positive"}
+{"prompt": "All website content must have a logical and intuitive reading order.", "completion": "positive"}
+{"prompt": "The website must not use tables for layout purposes.", "completion": "positive"}
+{"prompt": "All form input fields must have clear and concise validation messages.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise contact page.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easily understandable.", "completion": "positive"}
+{"prompt": "The website must not use content that could be considered offensive or discriminatory.", "completion": "positive"}
+{"prompt": "All form input fields must have clear and concise help text.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise FAQ section.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to navigate.", "completion": "positive"}
+{"prompt": "The website must not use content that could be considered violent or graphic.", "completion": "positive"}
+{"prompt": "All form input fields must have a clear and concise format.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise mission statement.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to understand.", "completion": "positive"}
+{"prompt": "The website must not use content that could be considered discriminatory or derogatory.", "completion": "positive"}
+{"prompt": "All form input fields must have clear and concise feedback messages.", "completion": "positive"}
+{"prompt": "All website content must be readable and understandable by assistive technologies.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to report accessibility issues.", "completion": "positive"}
+{"prompt": "All website content must have descriptive and meaningful alt text for images.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any non-standard controls.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to scan and skim read.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to request accessible alternatives to inaccessible content.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for non-native speakers.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to skip repetitive content, such as navigation menus.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for users with cognitive disabilities.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for completing any timed activities or tasks.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to understand and navigate for users with learning disabilities.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to adjust font sizes and styles.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for users with visual impairments.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for completing any complex tasks or activities.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to understand and navigate for users with hearing impairments.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to adjust color contrast for users with visual impairments.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for users with motor impairments.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for completing any multi-step processes or forms.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to understand and navigate for users with attention deficit hyperactivity disorder (ADHD).", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to provide sign language interpretation for users with hearing impairments.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for users with dyslexia.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for completing any CAPTCHA tests.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to understand and navigate for users with autism.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to provide audio description for users with visual impairments.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for users with epilepsy.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to provide closed captions for videos for users with hearing impairments.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for users with speech impairments.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for navigating any carousels or sliders.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to understand and navigate for users with photosensitive epilepsy.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to provide audio transcripts for users with hearing impairments.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for users with intellectual disabilities.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any drag-and-drop functionality.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to understand and navigate for users with low vision.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to provide audio descriptions for users with cognitive disabilities.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for users with age-related impairments.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for navigating any nested menus.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to understand and navigate for users with motion sickness.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to provide transcripts for users with cognitive disabilities.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for users with vertigo.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any tooltips or pop-ups.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to understand and navigate for users with photosensitive migraines.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to provide audio descriptions for users with visual impairments.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for users with anxiety disorders.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any expandable sections or accordions.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to understand and navigate for users with post-traumatic stress disorder (PTSD).", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to provide transcripts for users with visual impairments.", "completion": "positive"}
+{"prompt": "All website content must be provided in a way that is easy to understand and navigate for users with attention deficit disorder (ADD).", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any virtual keyboards.", "completion": "positive"}
+{"prompt": "All website content must be presented in a way that is easy to understand and navigate for users with tremors.", "completion": "positive"}
+{"prompt": "All form fields must have clear and concise completions that describe the information being requested.", "completion": "positive"}
+{"prompt": "Form validation must be clear and concise, and provide specific feedback on any errors or missing information.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to provide autofill suggestions for form fields.", "completion": "positive"}
+{"prompt": "All form fields must have clear and concise instructions for inputting information.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any date pickers or calendars in form fields.", "completion": "positive"}
+{"prompt": "All form fields must be presented in a way that is easy to understand and navigate for users with color blindness.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any file upload functionality in form fields.", "completion": "positive"}
+{"prompt": "All form fields must be presented in a way that is easy to understand and navigate for users with low literacy.", "completion": "positive"}
+{"prompt": "The website must have a clear and concise way to provide character limits or input restrictions for form fields.", "completion": "positive"}
+{"prompt": "All form fields must be presented in a way that is easy to understand and navigate for users with cognitive disabilities.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any time pickers in form fields.", "completion": "positive"}
+{"prompt": "All form fields must be presented in a way that is easy to understand and navigate for users with dyslexia.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any dropdown menus in form fields.", "completion": "positive"}
+{"prompt": "All form fields must be presented in a way that is easy to understand and navigate for users with motor disabilities.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any radio buttons or checkboxes in form fields.", "completion": "positive"}
+{"prompt": "All form fields must be presented in a way that is easy to understand and navigate for users with photosensitive epilepsy.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any range sliders or input fields in form fields.", "completion": "positive"}
+{"prompt": "All form fields must be presented in a way that is easy to understand and navigate for users with visual impairments.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any toggle switches or input fields in form fields.", "completion": "positive"}
+{"prompt": "All form fields must be presented in a way that is easy to understand and navigate for users with photosensitive migraines.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any select menus or input fields in form fields.", "completion": "positive"}
+{"prompt": "All form fields must be presented in a way that is easy to understand and navigate for users with vertigo.", "completion": "positive"}
+{"prompt": "The website must have clear and concise instructions for using any password fields in form fields.", "completion": "positive"}
+{"prompt": "All form fields must be presented in a way that is easy to understand and navigate for users with anxiety disorders.", "completion": "positive"}

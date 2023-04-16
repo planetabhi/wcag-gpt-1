@@ -1,0 +1,30 @@
+{
+  "name": "wcag-gpt-1",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/planetabhi/wcag-gpt-1.git"
+  },
+  "keywords": [
+    "WCAG",
+    "GPT"
+  ],
+  "author": "Abhimanyu Rana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/planetabhi/wcag-gpt-1/issues"
+  },
+  "homepage": "https://github.com/planetabhi/wcag-gpt-1#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}
