@@ -1,5 +1,4 @@
-# WCAG GPT 1
-Training a GPT model on WCAG success criteria. (Note: As of now, the training data used here is a workaround that was quickly generated using ChatGPT.)
+# GPT, Fine-tuning
 
 > For embedding vectors approach checkout [WCAG GPT 2](https://github.com/planetabhi/wcag-gpt-2).
 
